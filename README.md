@@ -29,7 +29,7 @@ The training set is used to train the gait-based pedestrian recognition model fo
 
 The testing set is used to calculate the weighted log-probability as a score on the previously trained background model and the just trained gait-based pedestrian recognition model.
 
-![image](./model structure.jpg)
+![image](./model_structure.jpg)
 
 ## Results
 Applying the GMM-UBM algorithm, commonly used in speaker speech recognition, to gait-based pedestrian recognition classification is feasible and the model has a good performance.
